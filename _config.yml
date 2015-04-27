@@ -5,15 +5,15 @@ paginate: 6
 paginate_path: page/:num
 
 blog:
-    name: Gopast                                       			# 博客名称
+    name: Yikoo                                       			# 博客名称
     description: Let the past is past!--Goodbye.       			# 博客描述
-    title: Gopast --Let the past is past!               		# 网页标题
-    url: http://gopast.gitcafe.com/                     		# 博客地址
+    title: Yikoo --Let the past is past!               		# 网页标题
+    url: http://yikoo.github.io/                     		    # 博客地址
     duoshuo:                                             		# 多说ID
     tongji:    525af40e10015630af834b6ae019ff2b                 # 百度统计ID
     qiniu:                                               		# 七牛云地址
 author:		
-    name:    Gopast                                      		# 作者名称
+    name:    Yikoo                                      		# 作者名称
     email: 295126165@qq.com                                     # 邮箱地址
     weibo: http://weibo.com/2935727977/profile?topnav=1&wvr=6	# 微博地址
     github:                                              		# GitHub地址
