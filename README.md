@@ -1,1 +1,1 @@
-# yikoo.github.io
+# gopast
